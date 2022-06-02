@@ -2,9 +2,11 @@
 <body>
   <img align= "left" src="https://video.fceb6-1.fna.fbcdn.net/v/t1.6435-9/164637466_446734723050592_939117695764491044_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFp1Lm3FeaRCc-qwuQFnCYWJbQdyxB23g0ltB3LEHbeDYlGJm-UCpcntcUz5c3DvPl8c1-wAXraE1LFZuHNEmmw&_nc_ohc=ChJxh6yg860AX9w52md&tn=ALlyHMXuHmJlBJlq&_nc_ht=video.fceb6-1.fna&oh=00_AT8LksjoXs7Ua3AM7VtnIloRnMge6prFladYzyCITLWnGQ&oe=62BE062F" alt="nelson's pfp" height="90" width="90">
   <h1>Nelson G. Tamayo Jr. 🤓</h1>
-  <p>BSIT-3D Student of <em><strong><a href="https://www.isatu.edu.ph/">Iloilo Science and Technology University</a></strong></em></p>
-  <p>Currently a 3rd year college student at Iloilo Science and Technology University, undertaking a degree in Bachelor of Science
+   <br>
+  <p>A 3rd year Bachelor of Science in Information Technology Student of <em><strong><a href="https://www.isatu.edu.ph/">Iloilo Science and Technology University</a></strong></em></p>
+  <p> Currently a 3rd year college student at Iloilo Science and Technology University, undertaking a degree in Bachelor of Science
     in Information Technology.</p>
+    <br>
   <table align"left" width ="50%">
     <thead>
       <tr>
